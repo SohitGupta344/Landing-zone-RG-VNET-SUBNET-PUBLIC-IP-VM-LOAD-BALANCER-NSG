@@ -1,0 +1,12 @@
+variable "name" {}
+variable "location" {}
+variable "resource_group_name" {}
+variable "sku" {}
+variable "frontend_name" {}
+variable "public_ip_id" {}
+variable "backend_pool_name" {}
+variable "probe_name" {}
+variable "probe_port" {}
+variable "rule_name" {}
+variable "frontend_port" {}
+variable "backend_port" {}
